@@ -19,7 +19,6 @@ YouTube Video: https://www.youtube.com/watch?v=Gz6Mzg_WDuc
 > After completing this course, I feel confident in my ability to begin my journey as a Full Stack software developer capable of managing a wide variety of tasks and challenges that come my way. I hope to follow the best practices I have learned from this course and work towards migrating more applications and services to AWS and other cloud providers.
 
 
-# Planning for Growth: Synthesize the knowledge you have gathered about cloud services.
 
 # How would you handle scale and error handling?
 > I would start the process of scaling my web application by first configuring and applying AWS auto scaling through the CloudWatch service. With AWS auto scaling my application would be able to allocate more resources depending on the amount of traffic and adjust the read capacity for my DynamoDB database. I would also mitigate error handling by building and maintain my own AWS step functions which could automate and handle any issues with my other services or Lambda functions.
