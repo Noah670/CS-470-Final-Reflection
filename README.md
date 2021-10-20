@@ -5,8 +5,9 @@ Final Reflection For CS-470
 
 YouTube Video: https://www.youtube.com/watch?v=Gz6Mzg_WDuc
 
-•	Experiences and Strengths: Explain how this course will help you in reaching your professional goals.
-•	What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+## Experiences and Strengths: Explain how this course will help you in reaching your professional goals.
+
+What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
 	In this course I was able to learn and apply key Cloud development concepts such as containerization, serverless architecture with AWS, and elasticity. Understanding all of these concepts and skills will enable me to expand my own future career opportunities in the realm of software development. I also became much more familiar with building and maintaining REST APIs through AWS services which is essential for building and deploying scalable web applications.     
 o	Describe your strengths as a software developer.
 	As a software developer I am always eager to learn and apply new skills and technologies that help me stay ahead of the curve and remain marketable. I am also able to understand and identify software requirements while providing creative solutions to problems. I also consider myself a team player and remain clear in my communication style and presentation to other developers. 
